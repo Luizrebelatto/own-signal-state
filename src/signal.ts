@@ -1,5 +1,3 @@
-// src/signal.ts
-
 export type Listener<State> = (
   value: State,
   oldValue: State
